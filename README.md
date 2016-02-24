@@ -1,0 +1,1 @@
+# Repository for testing Django web apps
